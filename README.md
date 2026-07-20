@@ -110,3 +110,24 @@ Upload `sample_data/customer_data.csv` and the app will:
 - Never commit your `.env` file — it is in `.gitignore`
 - The app works without an API key for all EDA/ML features
 - AI report requires a valid Groq API key
+
+<img width="1917" height="967" alt="image" src="https://github.com/user-attachments/assets/1fb9571d-b1bd-43fa-90a7-72c271e7bc98" />
+
+<img width="1917" height="920" alt="image" src="https://github.com/user-attachments/assets/f5f85d70-5524-4e04-bf6f-9a08aa136be7" />
+
+<img width="1911" height="963" alt="image" src="https://github.com/user-attachments/assets/a46950d2-0e7f-4872-afb6-d1ee230a5e2d" />
+
+<img width="1917" height="965" alt="image" src="https://github.com/user-attachments/assets/7d5e40a8-1f53-4c84-a945-1342a3bd168b" />
+
+<img width="1918" height="966" alt="image" src="https://github.com/user-attachments/assets/f85c33ae-e68d-43c6-8276-a97c346c9a80" />
+
+<img width="1913" height="960" alt="image" src="https://github.com/user-attachments/assets/6887f9c6-e993-4a5a-949b-76eae5ae4b82" />
+
+<img width="1911" height="966" alt="image" src="https://github.com/user-attachments/assets/8fbaaba4-5ccf-4ea4-9c4b-72aaf4b33eb5" />
+
+
+
+
+
+
+
