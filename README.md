@@ -143,3 +143,19 @@ The objective of this project is to simplify data analysis by combining automati
 * Cloud Deployment
 
 ---
+<img width="1916" height="975" alt="image" src="https://github.com/user-attachments/assets/7e21eb66-7ffe-4f03-8c06-b6eb6feb46fc" />
+
+<img width="1915" height="968" alt="image" src="https://github.com/user-attachments/assets/cba5ae99-f65f-4751-aaeb-ef92a5e99a47" />
+
+<img width="1913" height="971" alt="image" src="https://github.com/user-attachments/assets/f838da6b-b1a5-46bd-a86a-a7b109919471" />
+
+<img width="1915" height="960" alt="image" src="https://github.com/user-attachments/assets/12900f3f-f20e-4121-b4dd-745b7caa4c61" />
+
+<img width="1911" height="920" alt="image" src="https://github.com/user-attachments/assets/81d61f23-3341-4491-b517-ec6190ffbbee" />
+
+<img width="1918" height="961" alt="image" src="https://github.com/user-attachments/assets/d8539ee2-3cea-4ead-b27a-26d752dea282" />
+
+
+
+
+
